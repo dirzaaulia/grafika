@@ -58,9 +58,6 @@
 						      <th>Original</th>
 						      <th>Greyscale</th>
 						      <th>Brightness +50</th>
-						      <th>Contrast +50</th>
-						      <th>Invert</th>
-						      <th>Blur</th>
 					    	</tr>
 					  	</thead>
 					  	<tbody>
@@ -68,9 +65,17 @@
 					      		<td><img src='bar0.jpg'></td>
 					      		<td><img src='bar1.jpg'></td>
 					      		<td><img src='bar2.jpg'></td>
-					      		<td><img src='bar3.jpg'></td>
+					    	</tr>
+					    	<tr>
+					    		<th>Contrast +50</th>
+						      	<th>Invert</th>
+						      	<th>Blur</th>
+					    	</tr>
+					    		<td><img src='bar3.jpg'></td>
 					      		<td><img src='bar4.jpg'></td>
 					      		<td><img src='bar5.jpg'></td>
+					    	<tr>
+
 					    	</tr>
 					  	</tbody>
 					</table>
